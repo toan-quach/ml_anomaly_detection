@@ -1,0 +1,6 @@
+data/
+.ipynb_checkpoints/
+*.docx
+HDFS_V1.zip
+result
+.DS_Store

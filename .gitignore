@@ -4,3 +4,5 @@ data/
 HDFS_V1.zip
 result
 .DS_Store
+.venv
+Papers/

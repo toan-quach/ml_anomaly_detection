@@ -1,0 +1,30 @@
+EventId,EventTemplate,FailedCountUnique,SuccessCountUnique
+E1,[*]Adding an already existing block[*],5,0
+E2,[*]Verification succeeded for[*],1412,7283
+E3,[*]Served block[*]to[*],2636,12113
+E4,[*]Got exception while serving[*]to[*],2273,11239
+E5,[*]Receiving block[*]src:[*]dest:[*],4124,14259
+E6,[*]Received block[*]src:[*]dest:[*]of size[*],2101,589
+E7,[*]writeBlock[*]received exception[*],67,0
+E8,[*]PacketResponder[*]for block[*]Interrupted[*],44,0
+E9,[*]Received block[*]of size[*]from[*],4100,14259
+E10,[*]PacketResponder[*]Exception[*],58,0
+E11,[*]PacketResponder[*]for block[*]terminating[*],4117,14259
+E12,[*]:Exception writing block[*]to mirror[*],26,0
+E13,[*]Receiving empty packet for block[*],181,0
+E14,[*]Exception in receiveBlock for block[*],54,0
+E15,[*]Changing block file offset of block[*]from[*]to[*]meta file offset to[*],38,0
+E16,[*]:Transmitted block[*]to[*],2101,589
+E17,[*]:Failed to transfer[*]to[*]got[*],8,0
+E18,[*]Starting thread to transfer block[*]to[*],2122,590
+E19,[*]Reopen Block[*],4,0
+E20,[*]Unexpected error trying to delete block[*]BlockInfo not found in volumeMap[*],1379,152
+E21,[*]Deleting block[*]file[*],4032,13691
+E22,[*]BLOCK* NameSystem[*]allocateBlock:[*],4124,14259
+E23,[*]BLOCK* NameSystem[*]delete:[*]is added to invalidSet of[*],3982,13247
+E24,[*]BLOCK* Removing block[*]from neededReplications as it does not belong to any file[*],4,0
+E25,[*]BLOCK* ask[*]to replicate[*]to[*],2122,590
+E26,[*]BLOCK* NameSystem[*]addStoredBlock: blockMap updated:[*]is added to[*]size[*],4100,14259
+E27,[*]BLOCK* NameSystem[*]addStoredBlock: Redundant addStoredBlock request received for[*]on[*]size[*],359,3
+E28,[*]BLOCK* NameSystem[*]addStoredBlock: addStoredBlock request received for[*]on[*]size[*]But it does not belong to any file[*],499,12
+E29,[*]PendingReplicationMonitor timed out block[*],37,0

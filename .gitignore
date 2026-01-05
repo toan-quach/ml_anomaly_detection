@@ -5,5 +5,5 @@ HDFS_V1.zip
 result
 .DS_Store
 .venv
-Papers/
-models/
+documents/
+saved_models/`

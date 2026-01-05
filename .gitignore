@@ -6,7 +6,7 @@ result
 .DS_Store
 .venv
 Papers/
-models/
+final_model.pth
 results
 *.pt
 *.npy
